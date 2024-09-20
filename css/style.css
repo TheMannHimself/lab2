@@ -4,7 +4,9 @@ body {
     margin: 20px;
     background-color:#050580;
 }
-
+#form {
+    background-color:#555;
+}
 section {
     max-width: 600px;
     margin: 0 auto;
