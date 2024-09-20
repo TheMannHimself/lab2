@@ -3,11 +3,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
     background-color:#050580;
+    justify-content: center;
+    align-items: center;
 }
 
 section {
     max-width: 600px;
     margin: 0 auto;
+    border-radius:9px;
     background-color:#555;
     max-width: 90%;
     margin: 0 auto;
